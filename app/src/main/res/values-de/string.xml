@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">AndroidMarsmensch</string>
     <string name="texto">Willkommen</string>
+    <string name="boton">Melden Sie sich an</string>
 </resources>

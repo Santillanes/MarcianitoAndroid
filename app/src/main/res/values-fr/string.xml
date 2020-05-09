@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">MartienAndroid</string>
     <string name="texto">Bienvenue</string>
+    <string name="boton">Connectez-vous</string>
 </resources>

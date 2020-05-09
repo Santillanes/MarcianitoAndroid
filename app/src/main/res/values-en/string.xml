@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">AndroidMartian</string>
     <string name="texto">Welcome</string>
+    <string name="boton">Enter</string>
 </resources>
